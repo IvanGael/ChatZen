@@ -1,0 +1,18 @@
+# ignore files and directories matching these patterns
+
+node_modules/
+.env
+
+.DS_Store
+*.log
+
+# ignore files with these extensions
+*.json
+*.md
+*.txt
+*.log
+
+# ignore specific files or directories
+config.js
+docs/
+./
